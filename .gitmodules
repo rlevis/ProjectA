@@ -1,3 +1,6 @@
 [submodule "thirdparty/3PlibraryA_1.0.0"]
 	path = thirdparty/3PlibraryA_1.0.0
 	url = https://github.com/rlevis/3PlibraryA
+[submodule "thirdparty/3PlibraryA"]
+	path = thirdparty/3PlibraryA
+	url = https://github.com/rlevis/3PlibraryA
