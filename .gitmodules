@@ -7,3 +7,6 @@
 [submodule "thirdparty/3PlibraryB"]
 	path = thirdparty/3PlibraryB
 	url = https://github.com/rlevis/3PlibraryB
+[submodule "thirdparty/shapelib"]
+	path = thirdparty/shapelib
+	url = https://github.com/asapnet/shapelib
